@@ -30,6 +30,7 @@ These are the projects I made to practice what I learn:
 | **Rock Paper Scissors** | **Goal:** To understand **DOM** manipulation. | JAVASCRIPT, HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/rock-paper-scissors "Rock Paper Scissors") |
 | **Calculator** | **Goal:** to build relatively complex **UI** and interacting with **DOM**. | JAVASCRIPT, HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/calculator "Calculator") |
 | **Sign-Up-Form** | **Goal:** working with forms and managing the **UI**. | HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/sign-up-form "Sign-Up-Form") |
+| **Admin Dashboard** | **Goal:** working with **Grid** layout. | HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/admin-dashboard "Admin Dashboard") |
 ---
 
 ## 🎯 Currently
