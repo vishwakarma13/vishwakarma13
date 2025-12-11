@@ -11,7 +11,7 @@ My JavaScript Development Portfolio. I believe in learning by doing. This is whe
 | Topic / Technology | Status | Learning Resources |
 | :--- | :--- | :--- |
 | **JAVASCRIPT** | Currently following a roadmap. | MDN Web Docs / The Odin Project|
-| **HTML AND CSS** | Working on advanced HTML and CSS cocepts. | MDN Web Docs |
+| **HTML AND CSS** | Working on advanced HTML and CSS concepts. | MDN Web Docs |
 | **GIT AND GITHUB** | Moving towards advanced commands. | MDN Web Docs / The Odin Project |
 
 *I am focused on consistent practice and applying these concepts through small projects.*
@@ -27,8 +27,8 @@ These are the projects I made to practice what I learn:
 | **Recipes Project** | **Goal:** To build a simple webpage with multiple pages. | HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/odin-recipes "Recipes Project") |
 | **Landing Page** | **Goal:** To understand **CSS** and **Flexbox** better. | HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/landing-page "Landing Page") |
 | **Etch a Sketch** | **Goal:** To understand **JAVASCRIPT** AND **DOM** effectively. | JAVASCRIPT, HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/etch-a-sketch "Etch a Sketch") |
-| **ROCK PAPER SCISSORS** | **Goal:** To understand **DOM** manipulation. | JAVASCRIPT, HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/rock-paper-scissors "Rock Paper Scissors") |
-| **CALCULATOR** | **Goal:** to build relatively complex **UI** and interacting with **DOM**. | JAVASCRIPT, HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/calculator "Calculator") |
+| **Rock Paper Scissors** | **Goal:** To understand **DOM** manipulation. | JAVASCRIPT, HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/rock-paper-scissors "Rock Paper Scissors") |
+| **Calculator** | **Goal:** to build relatively complex **UI** and interacting with **DOM**. | JAVASCRIPT, HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/calculator "Calculator") |
 | **Sign-Up-Form** | **Goal:** working with forms and managing the **UI**. | HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/sign-up-form "Sign-Up-Form") |
 ---
 
