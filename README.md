@@ -1,14 +1,12 @@
 # Hello World! I'm Vaibhav 👋
 
-### Aspiring Web Developer
+### Web Developer
 
-I am currently on an exciting journey to become a Web Developer. I am passionate about learning Javascript and I believe in building projects to solidify my understanding.
-
-This portfolio is a live record of my learning and progress!
+My JavaScript Development Portfolio. I believe in learning by doing. This is where I design, code, and deploy projects that demonstrate my growing proficiency as a Web Developer.
 
 ---
 
-## 📚 What I am Currently Learning
+## 📚 Technologies
 
 | Topic / Technology | Status | Learning Resources |
 | :--- | :--- | :--- |
@@ -20,7 +18,7 @@ This portfolio is a live record of my learning and progress!
 
 ---
 
-## ✨ Projects in Progress (My Learning Sandbox)
+## ✨ Projects
 
 These are the projects I made to practice what I learn:
 
@@ -34,10 +32,9 @@ These are the projects I made to practice what I learn:
 | **Sign-Up-Form** | **Goal:** working with forms and managing the **UI**. | HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/sign-up-form "Sign-Up-Form") |
 ---
 
-## 🎯 My Near-Future Goals
+## 🎯 Currently
 
-* Complete the course for **JAVASCRIPT**.
-* Build a **Portfolio Website**.
+* Building a **Portfolio Website**.
 
 ---
 
