@@ -24,6 +24,7 @@ These are the projects I made to practice what I learn:
 
 | Project Name | Goal / Key Learning | Technologies Used | Link |
 | :--- | :--- | :--- | :--- |
+| **Library Project** | **Goal:** To understand **Objects** and **Arrays** in JS. | JAVASCRIPT, HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/library-project "Library Project") |
 | **Recipes Project** | **Goal:** To build a simple webpage with multiple pages. | HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/odin-recipes "Recipes Project") |
 | **Landing Page** | **Goal:** To understand **CSS** and **Flexbox** better. | HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/landing-page "Landing Page") |
 | **Etch a Sketch** | **Goal:** To understand **JAVASCRIPT** AND **DOM** effectively. | JAVASCRIPT, HTML, CSS, GIT, GITHUB | [GitHub Repo](https://github.com/vishwakarma13/etch-a-sketch "Etch a Sketch") |
